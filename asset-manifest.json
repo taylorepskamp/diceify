@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/diceify/static/css/main.731d46f2.chunk.css",
-    "main.js": "/diceify/static/js/main.015781f2.chunk.js",
-    "main.js.map": "/diceify/static/js/main.015781f2.chunk.js.map",
+    "main.js": "/diceify/static/js/main.3f3b95bf.chunk.js",
+    "main.js.map": "/diceify/static/js/main.3f3b95bf.chunk.js.map",
     "runtime-main.js": "/diceify/static/js/runtime-main.1f6671dc.js",
     "runtime-main.js.map": "/diceify/static/js/runtime-main.1f6671dc.js.map",
     "static/js/2.7f55c561.chunk.js": "/diceify/static/js/2.7f55c561.chunk.js",
     "static/js/2.7f55c561.chunk.js.map": "/diceify/static/js/2.7f55c561.chunk.js.map",
     "index.html": "/diceify/index.html",
-    "precache-manifest.fc8dc1d5cb26f5477bd5d06e26512d62.js": "/diceify/precache-manifest.fc8dc1d5cb26f5477bd5d06e26512d62.js",
+    "precache-manifest.883a5b10e56686426305454decb5972c.js": "/diceify/precache-manifest.883a5b10e56686426305454decb5972c.js",
     "service-worker.js": "/diceify/service-worker.js",
     "static/css/main.731d46f2.chunk.css.map": "/diceify/static/css/main.731d46f2.chunk.css.map",
     "static/js/2.7f55c561.chunk.js.LICENSE.txt": "/diceify/static/js/2.7f55c561.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1f6671dc.js",
     "static/js/2.7f55c561.chunk.js",
     "static/css/main.731d46f2.chunk.css",
-    "static/js/main.015781f2.chunk.js"
+    "static/js/main.3f3b95bf.chunk.js"
   ]
 }
